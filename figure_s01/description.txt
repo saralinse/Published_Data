@@ -1,0 +1,12 @@
+Multiwell plate fluorescence
+A01: 2.0 uM Ab42, pH 6.0, 9 uM ThT
+A02: 2.0 uM Ab42, pH 6.0, 9 uM ThT
+A03: 2.0 uM Ab42, pH 6.0, 9 uM ThT
+A04: 2.0 uM Ab42, pH 6.0, 9 uM ThT
+A05: 2.0 uM Ab42, pH 6.0, 9 uM ThT
+B01: buffer only, pH 6.0, 9 uM ThT
+B02: buffer only, pH 6.0, 9 uM ThT
+
+Circular dichroism spectroscopy
+Background: 02_buffer
+2.0 uM Ab42, pH 6.0, 9 uM ThT, 1 day: 07_240612A

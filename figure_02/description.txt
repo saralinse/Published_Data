@@ -1,0 +1,19 @@
+Background: 250626_01_water, 250627_01_water, 250627_10_water, 250630_01_water, 250717_01_water, 250718_03_water, 250718_04_water
+
+0.9 uM, pH 8.0, initial state: 250626_04_250626G
+Motion, 0.9 uM, pH 8.0, 1 day: 250627_04_250626G_1day
+
+0.9 uM, pH 6.0, initial state: 250626_02_250626E
+Motion, 0.9 uM, pH 6.0, 1 day: 250627_02_250626E_1day
+
+1.8 uM, pH 8.0, initial state: 250626_05_250626H
+Motion, 1.8 uM, pH 8.0, 1 day: 250627_05_250626H_1day
+
+1.8 uM, pH 6.0, initial state: 250626_03_250626F
+Motion, 1.8 uM, pH 6.0, 1 day: 250627_03_250626F_1day
+
+3.1 uM, pH 8.0, initial state: 250717_03_250717D
+Motion, 3.1 uM, pH 8.0, 1 day: 250718_02_250717D_1day
+
+3.1 uM, pH 6.0, initial state: 250717_02_250717C
+Motion, 3.1 uM, pH 6.0, 1 day: 250718_01_250717C_1day

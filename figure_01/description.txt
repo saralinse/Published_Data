@@ -1,0 +1,25 @@
+Background: 250626_01_water, 250627_01_water, 250627_10_water, 250630_01_water, 250717_01_water, 250718_03_water, 250718_04_water
+
+0.9 uM, pH 8.0, initial state: 250626_04_250626G
+Quiescent, 0.9 uM, pH 8.0, 1 day: 250627_08_250626C_1day
+Quiescent, 0.9 uM, pH 8.0, 4 days: 250630_04_250626C_4days
+
+0.9 uM, pH 6.0, initial state: 250626_02_250626E
+Quiescent, 0.9 uM, pH 6.0, 1 day: 250627_06_250626A_1day
+Quiescent, 0.9 uM, pH 6.0, 4 days: 250630_02_250626A_4days
+
+1.8 uM, pH 8.0, initial state: 250626_05_250626H
+Quiescent, 1.8 uM, pH 8.0, 1 day: 250627_09_250626D_1day
+Quiescent, 1.8 uM, pH 8.0, 4 days: 250630_05_250626D_4days
+
+1.8 uM, pH 6.0, initial state: 250626_03_250626F
+Quiescent, 1.8 uM, pH 6.0, 1 day: 250627_07_250626B_1day
+Quiescent, 1.8 uM, pH 6.0, 4 days: 250630_03_250626B_4days
+
+3.1 uM, pH 8.0, initial state: 250717_03_250717D
+Quiescent, 3.1 uM, pH 8.0, 1 day: 250718_06_250717B_1day
+Quiescent, 3.1 uM, pH 8.0, 4 days: 250721_02_250717B_4days
+
+3.1 uM, pH 6.0, initial state: 250717_02_250717C
+Quiescent, 3.1 uM, pH 6.0, 1 day: 250718_05_250717A_1day
+Quiescent, 3.1 uM, pH 6.0, 4 days: 250721_01_250717A_4days
