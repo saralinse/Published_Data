@@ -1,0 +1,6 @@
+Background: 251002_buffer, 251003_buffer, 251006_buffer
+
+2.6 uM, pH 8.0, initial state: 251002_251002G_tht_0days, 251002_251002G_tht_0days
+Quiescent, 2.6 uM, pH 8.0, low volume, 1 day: 251003_251002I_tht_1days, 251003_251002J_tht_1days, 251003_251002K_tht_1days
+Quiescent, 2.6 uM, pH 8.0, low volume, 4 days: 251006_251002O_tht_4days, 251006_251002P_tht_4days, 251006_251002Q_tht_4days
+

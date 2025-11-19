@@ -1,0 +1,6 @@
+Background: 250626_01_water, 250627_01_water, 250627_10_water, 250630_01_water, 250717_01_water, 250718_03_water, 250718_04_water
+
+2.6 uM, pH 8.0, initial state: 251002_04_251002G_0days, 251002_05_251002H_0days
+Quiescent, 2.6 uM, pH 8.0, low volume, 1 day: 251003_09_251002I_1days, 251003_10_251002J_1days, 251003_11_251002K_1days
+Quiescent, 2.6 uM, pH 8.0, low volume, 4 days: 251006_06_251002O_4days, 251006_07_251002P_4days, 251006_08_251002Q_4days
+

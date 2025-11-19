@@ -1,0 +1,6 @@
+Background: 251006_buffer
+
+1 day motion and 3 days quiescence, 2.6 uM, pH 8.0: 251006_251002G_tht_4days, 251006_251002H_tht_4days
+
+1 day motion and 3 days quiescence, 2.6 uM, pH 6.0: 251006_251002E_tht_4days, 251006_251002F_tht_4days
+
