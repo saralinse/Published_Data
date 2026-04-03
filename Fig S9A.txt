@@ -1,0 +1,13 @@
+"time (h)"	"MDS intensity (mA.U.) (oligomers)"	"MDS intensity (mA.U.) (oligomers)"	"MDS intensity (mA.U.) (oligomers)"	"MDS intensity (mA.U.) (oligomers)"	"MDS intensity (mA.U.) (Fibrils)"	"MDS intensity (mA.U.) (Fibrils)"	"MDS intensity (mA.U.) (Fibrils)"	"MDS intensity (mA.U.) (Fibrils)"
+0.333	90.3	92.9	90.0	88.1				
+0.750	89.5	85.0	94.4	84.8				
+1.500	96.1	102.0	102.8					
+3.000	127.1	99.3	93.4					
+4.000		110.7	121.0	97.4				
+24.000	109.6	102.5	117.2	117.9				
+48.000	78.1	83.6	75.4	83.9				
+51.500	93.6	88.7	88.4	93.6				
+120.000	85.2	83.2	86.4	89.7				
+191.000	64.6	74.7	73.4	102.2				
+								
+49.000					13.1	12.9	13.2	13.8
