@@ -1,0 +1,20 @@
+"Time (h)"	"MDS (Rh, nm) Incubation with JB6 (37 °C)"	"MDS (Rh, nm) Incubation with JB6 (37 °C)"	"MDS (Rh, nm) Incubation with JB6 (37 °C)"	"MDS (Rh, nm) Incubation with JB6 (37 °C)"	"MDS (Rh, nm) Incubation without JB6 (37 °C)"	"MDS (Rh, nm) Incubation without JB6 (37 °C)"	"MDS (Rh, nm) Incubation without JB6 (37 °C)"	"MDS (Rh, nm) Incubation without JB6 (37 °C)"	"MDS (Rh, nm) Incubation with JB6 (23 °C)"	"MDS (Rh, nm) Incubation with JB6 (23 °C)"	"MDS (Rh, nm) Incubation with JB6 (23 °C)"	"MDS (Rh, nm) Incubation with JB6 (23 °C)"	"MDS (Rh, nm) Incubation without JB6 (23 °C)"	"MDS (Rh, nm) Incubation without JB6 (23 °C)"	"MDS (Rh, nm) Incubation without JB6 (23 °C)"	"MDS (Rh, nm) Incubation without JB6 (23 °C)"	" MDS (Rh, nm) JB6 + monomer"	" MDS (Rh, nm) JB6 + monomer"	" MDS (Rh, nm) JB6 + monomer"	" MDS (Rh, nm) JB6 + monomer"
+0.00000	10.700	9.02		16.30	10.700	9.02		16.30000												
+0.25000	11.500		9.21	10.10	8.050	8.14	7.31	9.36000												
+0.50000	7.090	4.68	7.51	7.72	2.650	3.43	3.69													
+0.83300	4.710		4.22	4.81	1.890	2.21	1.97	3.06000												
+1.16660	3.420	4.05	3.54	3.34	2.460		2.11	5.18000												
+1.50000	3.460	1.85	5.22	2.06																
+2.00000	5.410	2.54		3.97	3.320	2.45	1.92	4.00000												
+0.00000									12.200		10.10	11.40	12.200		10.10	11.400				
+0.41660									10.900	9.86	11.20	10.20	7.120	10.10	7.30	7.630				
+0.75000									11.200	8.09	8.49	8.24	6.630	5.50	6.15	6.650				
+1.08333									8.250	6.85	8.06	7.90	4.670	5.62	4.88	5.300				
+1.50000									5.770	6.45	6.38	6.32	6.270	3.58	4.91	4.510				
+2.00000									4.180	4.57	4.76	4.34	3.150	2.93	3.11	3.530				
+2.50000									3.430	3.14	3.29	2.90	2.870	1.78	2.67	2.500				
+3.00000									3.510	3.22	2.92	2.79	2.390		2.42	2.560				
+3.66600									3.020	2.58	2.68	2.94								
+4.16660									5.080	2.44	2.74	2.52								
+																				
+0.00000																	3.030	2.90	3.90	3.11
