@@ -1,0 +1,11 @@
+##TITLE= Parameter file, TopSpin 4.5.0
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 9	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH & Co. KG
+##OWNER= andreascarlsson
+$$ 2025-05-23 10:59:22.282 +0200  andreascarlsson@MacBook-Pro-som-tillhor-Andreas.local
+$$ /Users/andreascarlsson/Library/CloudStorage/OneDrive-LundUniversity/Doktorandutbildning/Chaperones/DNAJB6/Tau+JB6/NMR/250509tau15N_AND_JB6_ac001_ac002/250508_tau_15N_ac001/36/pdata/1/assocs
+$$ process /opt/topspin4.5.0/prog/mod/dataserver
+##$MULTDISP= </Users/andreascarlsson/Library/CloudStorage/OneDrive-LundUniversity/Doktorandutbildning/Chaperones/DNAJB6/Tau+JB6/NMR/250509tau15N_AND_JB6_ac001_ac002/250508_tau_15N_18uMJB6_ac001/36/pdata/1|/Users/andreascarlsson/Library/CloudStorage/OneDrive-LundUniversity/Doktorandutbildning/Chaperones/DNAJB6/Tau+JB6/NMR/250509tau15N_AND_JB6_ac001_ac002/250508_tau_15N_180nMJB6_ac001/36/pdata/1>
+##END=

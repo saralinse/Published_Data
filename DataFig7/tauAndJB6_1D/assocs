@@ -1,0 +1,11 @@
+##TITLE= Parameter file, TopSpin 4.5.0
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 1	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH & Co. KG
+##OWNER= nmr
+$$ 2025-05-08 18:55:29.811 +0200  nmr@habanero
+$$ /opt/nmrdata/JohanW/250508_tau_15N_18uMJB6_ac001/35/pdata/1/assocs
+$$ process /opt/topspin4.5.0/prog/mod/dataserver
+##$MULTDISP= </opt/nmrdata/JohanW/250508_tau_15N_180nMJB6_ac001/35/pdata/1|/opt/nmrdata/JohanW/250508_tau_15N_1p8uMJB6_ac001/35/pdata/1>
+##END=
